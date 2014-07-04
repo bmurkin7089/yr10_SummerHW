@@ -23,17 +23,20 @@ There are 30 marks available and are awarded grades as follows:
 ###1 - Why do we represent data using binary when using computers *(1 mark)*
 
 ```
-answer here
+Because it is a serise of on and offs.
+
 ```
 ###2 - How would we represent the number 147 in binary? *(1 mark)*
 ```
-answer here
+10010011
+
 ```
 ###3 - Can you convert the hexadecimal number **b5** to denary, there is a mark for you working. *(2 marks)*
 ```
-answer here
+181
+
 ```
-###4 - Here is a function written is **pseudocode**.
+###4 - Here is a function written in **pseudocode**.
 ```
 FUNCTION validUser (users , user)
     FOR x <-1 to LEN(users)
@@ -47,12 +50,14 @@ ENDFUNCTION
 
 (a) What type of data is **users**? **(1 mark)**
 ```
-answer here
+String
+
 ```
 
 (b) What type of data is returned by this function? **(1 mark)**
 ```
-answer here
+Integer
+
 ```
 
 ##Errors
@@ -69,12 +74,14 @@ line7:		OUTPT mean
 
 (a) On which line is there a **syntax** error? **(1 mark)**
 ```
-answer here
+line7
+
 ```
 
 (b) What is meant by a **syntax** error? **(1 mark)**
 ```
-answer here
+You have mis-typed something with out meaning to.
+
 ```
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
