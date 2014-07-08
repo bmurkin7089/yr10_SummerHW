@@ -86,7 +86,7 @@ You have mis-typed something with out meaning to.
 
 (c) Identify a logical error in the program and suggest how this might be fixed. **(2 marks)**
 ```
-answer here
+It will not give the mean. It will give the lenth of the list
 ```
 
 (d) Describe and give an example of the 3rd kind of programming error. **(2 marks)**
