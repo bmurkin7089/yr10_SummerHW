@@ -34,3 +34,17 @@ Write a program which will:
 
 ##Handing in
 When complete paste you code into [tables.py](tables.py) and commit.
+
+x = int(input("Enter a number to times"))
+print(x*1)
+print(x*2)
+print(x*3)
+print(x*4)
+print(x*5)
+print(x*6)
+print(x*7)
+print(x*8)
+print(x*9)
+print(x*10)
+print(x*11)
+print(x*12)
